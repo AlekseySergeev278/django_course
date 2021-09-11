@@ -1,0 +1,16 @@
+#Windows 
+python -m venv venv
+
+#Linux
+python3 -m venv venv
+
+
+активация виртуального окружения
+3windows
+.\venv\Scripts\activate
+
+#Linux
+source venv/bin/activate
+
+
+
